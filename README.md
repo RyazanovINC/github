@@ -15,6 +15,6 @@ This is a <sup>supscript</sup> text
 - [] https://github.com/RyazanovINC
 - [] https://github.com/CurseCorp
 
-'rgb(9,105,218)'
+`rgb(9, 105, 218)`
 
   
