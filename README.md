@@ -5,3 +5,13 @@ _This text is italicized_
 ***All this text is important***
 This is a <sub>subscript</sub> text
 This is a <sup>supscript</sup> text
+
+
+- George Washington
+* Josn Adams
++ Thomas Jefferson
+
+- [x] #739
+- [] https://github.com/RyazanovINC
+- [] https://github.com/CurseCorp
+  
